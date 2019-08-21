@@ -1,0 +1,51 @@
+.font {
+    font-size: large;
+}
+
+.user-info {
+    margin-top: -38px;
+}
+
+.jumbotron-cv{
+    padding: 10px;
+    background-color: #f6f6f6;
+}
+
+.red-tag {
+    margin: 1px;
+    padding: 5px;    border-radius: 5px;
+    background: red;
+    color: white;
+    font-weight: 700;
+}
+
+.green-tag {
+    margin: 1px;
+    padding: 5px;    border-radius: 5px;
+    background: green;
+    color: white;
+    font-weight: 700;
+}
+
+.black-tag {
+    margin: 1px;
+    padding: 5px;    border-radius: 5px;
+    background: black;
+    color: white;
+    font-weight: 700;
+}
+
+.blue-tag {
+    margin: 1px;
+    padding: 5px;
+    border-radius: 5px;
+    background: blue;
+    color: white;
+    font-weight: 700;
+}
+
+
+.facebook
+{
+    background: url();
+}
